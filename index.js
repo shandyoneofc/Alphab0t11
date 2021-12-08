@@ -153,11 +153,11 @@ var qr_code_ovo = 'https://i.ibb.co/7p29V5N/6fe26e3f1350.jpg' //gk usah di ubah 
 var qr_code_dana = 'https://i.ibb.co/YTF7X8v/1505005c6284.jpg' //gk usah di ubah ya klo gk punya ntr eror
 var qr_code_gopay = 'https://i.ibb.co/Cbr1XVV/b74c6562d16a.jpg' //gk usah di ubah ya klo gk punya ntr eror
 
-var _minggu = 'Rp 5.000,00' //Masukkan harga sewa sesuai keinginan
-var __minggu = 'Rp 10.000,00'
-var ___minggu = 'Rp 20.000,00'
-var _bulan = 'Rp 22.000,00'
-var _permanen = 'Rp 50.000,00'
+var _minggu = 'Rp 2.000,00' //Masukkan harga sewa sesuai keinginan
+var __minggu = 'Rp 3.000,00'
+var ___minggu = 'Rp 4.000,00'
+var _bulan = 'Rp 5.000,00'
+var _permanen = 'Rp 10.000,00'
 var __permanen = 'Rp 100.000,00'
 
 zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
