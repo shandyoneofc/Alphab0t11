@@ -23,10 +23,10 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
 ⛎ Api : api-alphabot.herokuapp.com
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
+♈ YouTube : youtube.com/channel/UCeJI55BIRITTNcuf1LjKmgA
+♉ Github : github.com/shandyoneofc
 ♊ Instagram : instagram.com/zeeoneofc
-♋ Tiktok : tiktok.com/@zeeoneofc
+♋ Tiktok : tiktok.com/@shandyoneofc
 ♌ Telegram : t.me/zeeoneofc
 ♎ Ch Telegram : t.me/zeeone_ofc
 ♏ WhatsApp : bit.ly/zeeone_ofc
