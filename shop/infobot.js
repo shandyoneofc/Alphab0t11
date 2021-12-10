@@ -25,11 +25,10 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ⛎ Api : api-alphabot.herokuapp.com
 ♈ YouTube : youtube.com/channel/UCeJI55BIRITTNcuf1LjKmgA
 ♉ Github : github.com/shandyoneofc
-♊ Instagram : instagram.com/zeeoneofc
+♊ Instagram : instagram.com/shandyoneofc
 ♋ Tiktok : tiktok.com/@shandyoneofc
-♌ Telegram : t.me/zeeoneofc
-♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+♌ Telegram : t.me/shandyoneofc
+♏ WhatsApp : bit.ly/shandyoneofc
 `}
 
 exports.infobot = infobot
